@@ -1,6 +1,13 @@
 <?php 
 
-
+/*
+* Library Simple Template 
+*  
+* @package Codeigniter
+* @category template
+* @author Carlos Carvalho
+* @versio 1.0.0 
+*/
 
 class SimpleTemplate{
 	
